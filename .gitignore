@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+
+
+#file 
+boost/prj01/timer/*.sdf
+boost/prj01/timer/*.opensdf
+boost/prj01/timer/Debug/*
+boost/prj01/timer/ipch/*
+boost/prj01/timer/timer/Debug/*
