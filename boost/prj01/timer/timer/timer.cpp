@@ -101,6 +101,7 @@ int _tmain(int argc, _TCHAR* argv[])
 		//use wont_construct so compiler doesn't complain, but you wont get here!
 		std::cout << "oh oh, you shouldn't reach this line: " \
 			<< to_iso_string(wont_construct) << std::endl;
+
 	}
 	catch(std::exception& e) 
 	{

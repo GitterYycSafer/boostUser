@@ -33,8 +33,19 @@
 
 
 #file 
-boost/prj01/timer/*.sdf
-boost/prj01/timer/*.opensdf
+*.sdf
+*.opensdf
+
+
+#prj01
 boost/prj01/timer/Debug/*
 boost/prj01/timer/ipch/*
 boost/prj01/timer/timer/Debug/*
+
+
+
+#prj02
+boost/prj02_smart_pointer/Debug/*
+boost/prj02_smart_pointer/ipch/*
+boost/prj02_smart_pointer/boost_smart_pointer/Debug/*
+
